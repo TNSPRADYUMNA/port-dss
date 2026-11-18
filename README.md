@@ -38,7 +38,3 @@ python -m uvicorn api:app --host 127.0.0.1 --port 8080
 ```
 
 Run `python smoke.py` against the Compose stack to verify HTML delivery, schedule creation, post-commit Redis-to-WebSocket notification and persisted history. The API reference is at `/docs`. The defaults are for local development.
-
-## Reference
-
-[Yashwanth Hudumula's Port-DSS](https://github.com/YashwanthHudumula/port-dss) is the public project used as a feature and architecture reference. This implementation has its own scheduling model, experiments and application code.
