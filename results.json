@@ -1,0 +1,194 @@
+[
+  {
+    "scenario": "normal",
+    "seed": 0,
+    "solver": "OPTIMAL",
+    "optimized": 1266,
+    "baseline": 1266,
+    "bound": 1266.0
+  },
+  {
+    "scenario": "normal",
+    "seed": 1,
+    "solver": "OPTIMAL",
+    "optimized": 1096,
+    "baseline": 1142,
+    "bound": 1096.0
+  },
+  {
+    "scenario": "normal",
+    "seed": 2,
+    "solver": "OPTIMAL",
+    "optimized": 963,
+    "baseline": 1062,
+    "bound": 963.0
+  },
+  {
+    "scenario": "normal",
+    "seed": 3,
+    "solver": "OPTIMAL",
+    "optimized": 2473,
+    "baseline": 2895,
+    "bound": 2473.0
+  },
+  {
+    "scenario": "normal",
+    "seed": 4,
+    "solver": "OPTIMAL",
+    "optimized": 1370,
+    "baseline": 1581,
+    "bound": 1370.0
+  },
+  {
+    "scenario": "normal",
+    "seed": 5,
+    "solver": "OPTIMAL",
+    "optimized": 1461,
+    "baseline": 1575,
+    "bound": 1461.0
+  },
+  {
+    "scenario": "normal",
+    "seed": 6,
+    "solver": "OPTIMAL",
+    "optimized": 1111,
+    "baseline": 1336,
+    "bound": 1111.0
+  },
+  {
+    "scenario": "normal",
+    "seed": 7,
+    "solver": "OPTIMAL",
+    "optimized": 904,
+    "baseline": 904,
+    "bound": 904.0
+  },
+  {
+    "scenario": "surge",
+    "seed": 0,
+    "solver": "FEASIBLE",
+    "optimized": 2509,
+    "baseline": 3652,
+    "bound": 1255.0
+  },
+  {
+    "scenario": "surge",
+    "seed": 1,
+    "solver": "FEASIBLE",
+    "optimized": 3194,
+    "baseline": 4207,
+    "bound": 1392.0
+  },
+  {
+    "scenario": "surge",
+    "seed": 2,
+    "solver": "OPTIMAL",
+    "optimized": 2219,
+    "baseline": 2616,
+    "bound": 2219.0
+  },
+  {
+    "scenario": "surge",
+    "seed": 3,
+    "solver": "OPTIMAL",
+    "optimized": 2560,
+    "baseline": 4332,
+    "bound": 2560.0
+  },
+  {
+    "scenario": "surge",
+    "seed": 4,
+    "solver": "FEASIBLE",
+    "optimized": 2287,
+    "baseline": 2847,
+    "bound": 1112.0
+  },
+  {
+    "scenario": "surge",
+    "seed": 5,
+    "solver": "OPTIMAL",
+    "optimized": 1960,
+    "baseline": 2171,
+    "bound": 1960.0
+  },
+  {
+    "scenario": "surge",
+    "seed": 6,
+    "solver": "FEASIBLE",
+    "optimized": 2226,
+    "baseline": 2537,
+    "bound": 1231.0
+  },
+  {
+    "scenario": "surge",
+    "seed": 7,
+    "solver": "FEASIBLE",
+    "optimized": 2872,
+    "baseline": 2797,
+    "bound": 1222.0
+  },
+  {
+    "scenario": "outage",
+    "seed": 0,
+    "solver": "OPTIMAL",
+    "optimized": 1618,
+    "baseline": 1632,
+    "bound": 1618.0
+  },
+  {
+    "scenario": "outage",
+    "seed": 1,
+    "solver": "OPTIMAL",
+    "optimized": 1299,
+    "baseline": 1387,
+    "bound": 1299.0
+  },
+  {
+    "scenario": "outage",
+    "seed": 2,
+    "solver": "OPTIMAL",
+    "optimized": 1301,
+    "baseline": 1379,
+    "bound": 1301.0
+  },
+  {
+    "scenario": "outage",
+    "seed": 3,
+    "solver": "OPTIMAL",
+    "optimized": 3434,
+    "baseline": 4618,
+    "bound": 3434.0
+  },
+  {
+    "scenario": "outage",
+    "seed": 4,
+    "solver": "OPTIMAL",
+    "optimized": 1688,
+    "baseline": 1913,
+    "bound": 1688.0
+  },
+  {
+    "scenario": "outage",
+    "seed": 5,
+    "solver": "OPTIMAL",
+    "optimized": 1629,
+    "baseline": 1766,
+    "bound": 1629.0
+  },
+  {
+    "scenario": "outage",
+    "seed": 6,
+    "solver": "OPTIMAL",
+    "optimized": 1594,
+    "baseline": 1693,
+    "bound": 1594.0
+  },
+  {
+    "scenario": "outage",
+    "seed": 7,
+    "solver": "OPTIMAL",
+    "optimized": 1365,
+    "baseline": 1555,
+    "bound": 1365.0
+  }
+]
